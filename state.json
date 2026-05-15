@@ -1,0 +1,22 @@
+{
+    "campaign": {
+        "current_day": 33
+    },
+    "ship": {
+        "name": "The Toe-Tickler",
+        "food_days": 30,
+        "active_fuel_cell": "Argon",
+        "base_accel_g": 0.05,
+        "fuel_cells": {
+            "argon_units": 5.0,
+            "xenon_units": 5.1
+        }
+    },
+    "heat": {
+        "tac": 0,
+        "dave": 0,
+        "scum": 0,
+        "jerk": 0,
+        "pos": 0
+    }
+}

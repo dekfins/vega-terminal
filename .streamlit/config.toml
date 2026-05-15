@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#23d200ff"          # Neon Terminal Green
+backgroundColor = "#030f05ff"       # Deep Void Black
+secondaryBackgroundColor = "#111111" # Slightly lighter black for inputs
+textColor = "#23d200ff"             # Neon Terminal Green
+font = "monospace"                # Forces the terminal font
